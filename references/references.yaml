@@ -1,0 +1,65 @@
+task_id: T000058
+generated_at: '2026-07-11T15:43:37Z'
+selection_policy: curated_literature_first_v1
+citation_threshold: 100
+papers:
+- id: W1987937684
+  title: Mental Training Affects Distribution of Limited Brain Resources
+  authors:
+  - Heleen A. Slagter
+  - Antoine Lutz
+  - Lawrence L. Greischar
+  - Andrew D. Francis
+  - Sander Nieuwenhuis
+  - James M. Davis
+  - Richard J. Davidson
+  year: 2007
+  journal: PLoS Biology
+  doi_or_url: https://doi.org/10.1371/journal.pbio.0050138
+  citation_count: 761
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - task_workflow
+  - timing_parameters
+  - stimulus_design
+  - scoring
+  parameter_bindings: {}
+  notes: Primary protocol source for the digit-target RSVP implementation.
+- id: W2098899462
+  title: The Neural Fate of Consciously Perceived and Missed Events in the Attentional
+    Blink
+  authors:
+  - Rene Marois
+  - Do-Joon Yi
+  - Marvin M. Chun
+  year: 2004
+  journal: Neuron
+  doi_or_url: https://doi.org/10.1016/S0896-6273(04)00012-1
+  citation_count: 308
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - construct_validity
+  - target_detection_semantics
+  parameter_bindings: {}
+  notes: High-impact supporting evidence for blink versus no-blink target processing.
+- id: W2151876785
+  title: Pupil Dilation Deconvolution Reveals the Dynamics of Attention at High Temporal
+    Resolution
+  authors:
+  - Stefan M. Wierda
+  - Hedderik van Rijn
+  - Niels Taatgen
+  - Sander Martens
+  year: 2012
+  journal: Proceedings of the National Academy of Sciences
+  doi_or_url: https://doi.org/10.1073/pnas.1201858109
+  citation_count: 330
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - lag_manipulation
+  - conditional_t2_accuracy
+  parameter_bindings: {}
+  notes: Supporting evidence for lag-dependent T2 performance and conditional scoring.

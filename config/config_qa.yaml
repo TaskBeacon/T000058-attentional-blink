@@ -1,0 +1,50 @@
+subinfo_fields:
+  - name: subject_id
+    type: str
+subinfo_mapping: {subject_id: 被试编号, Participant Information: 被试信息, registration_failed: 登记失败, registration_successful: 登记成功, invalid_input: "{field} 输入无效"}
+window: {size: [1024, 768], units: deg, screen: 0, bg_color: gray, fullscreen: false, monitor_width_cm: 35.5, monitor_distance_cm: 60}
+task:
+  task_name: Attentional Blink Task
+  save_path: ./outputs/qa
+  total_blocks: 1
+  total_trials: 4
+  trial_per_block: 4
+  conditions: [short_present, long_present, short_absent, long_absent]
+  condition_counts: {short_present: 1, long_present: 1, short_absent: 1, long_absent: 1}
+  practice_condition_counts: {short_present: 1, long_present: 1, short_absent: 1, long_absent: 1}
+  random_seed: 2026
+  key_list: [space, "0", "2", "3", "4", "5", "6", "7", "8", "9"]
+  t1_keys: ["2", "3", "4", "5", "6", "7", "8", "9"]
+  t2_keys: ["0", "2", "3", "4", "5", "6", "7", "8", "9"]
+  seed_mode: same_across_sub
+timing: {fixation_duration: 1.780, rsvp_item_duration: 0.050, rsvp_blank_duration: 0.034, post_stream_delay: 1.000, report_window: 5.000, practice_feedback_duration: 0.800, iti_duration: 0.200}
+stimuli:
+  fixation: {type: text, text: "+", color: black, font: Arial, height: 0.5, pos: [0, 0]}
+  blank: {type: text, text: "", color: black, font: Arial, height: 0.8, pos: [0, 0]}
+  rsvp_character: {type: text, text: "{character}", color: black, font: Arial, height: 0.8, pos: [0, 0]}
+  instruction_text: {type: text, text: "快速序列中可能有一个或两个数字。依次报告数字；确定没有第二个数字时按 0。\n\n按空格键开始。", color: black, font: SimHei, height: 0.55, wrapWidth: 15, pos: [0, 0]}
+  practice_intro: {type: text, text: "先进行练习。练习后会显示回答是否正确。\n\n按空格键继续。", color: black, font: SimHei, height: 0.6, wrapWidth: 14, pos: [0, 0]}
+  t1_report_prompt: {type: text, text: "你看到的第一个数字是什么？", color: black, font: SimHei, height: 0.7, wrapWidth: 15, pos: [0, 1.2]}
+  t1_report_options: {type: text, text: "请按 2–9 中的一个数字键", color: black, font: SimHei, height: 0.45, wrapWidth: 15, pos: [0, -0.8]}
+  t2_report_prompt: {type: text, text: "你看到的第二个数字是什么？", color: black, font: SimHei, height: 0.7, wrapWidth: 15, pos: [0, 1.3]}
+  t2_report_options: {type: text, text: "按 2–9 回答；确定没有第二个数字时按 0", color: black, font: SimHei, height: 0.45, wrapWidth: 16, pos: [0, -0.9]}
+  practice_feedback_both_correct: {type: text, text: "两个回答都正确", color: green, font: SimHei, height: 0.65, pos: [0, 0]}
+  practice_feedback_t1_only: {type: text, text: "第一个回答正确，第二个回答错误", color: orange, font: SimHei, height: 0.6, pos: [0, 0]}
+  practice_feedback_t2_only: {type: text, text: "第一个回答错误，第二个回答正确", color: orange, font: SimHei, height: 0.6, pos: [0, 0]}
+  practice_feedback_both_wrong: {type: text, text: "两个回答都不正确", color: red, font: SimHei, height: 0.65, pos: [0, 0]}
+  block_break: {type: text, text: "区组 {block_num}/{total_blocks} 完成\n第一个数字正确率：{t1_accuracy:.1%}\n条件化第二目标正确率：{conditional_t2_accuracy:.1%}\n\n按空格键继续。", color: black, font: SimHei, height: 0.5, wrapWidth: 15, pos: [0, 0]}
+  good_bye: {type: text, text: "任务完成\n第一个数字正确率：{t1_accuracy:.1%}\n条件化第二目标正确率：{conditional_t2_accuracy:.1%}\n注意瞬脱指标：{blink_magnitude:.3f}\n\n按空格键退出。", color: black, font: SimHei, height: 0.5, wrapWidth: 15, pos: [0, 0]}
+triggers:
+  map: {exp_onset: 1, exp_end: 2, block_onset: 10, block_end: 11, fixation_onset: 20, rsvp_distractor_onset: 30, t1_onset: 31, t2_onset: 32, t2_absent_onset: 33, rsvp_gap_onset: 34, retention_onset: 40, t1_report_onset: 50, t1_response_timeout: 51, t1_response_2: 52, t1_response_3: 53, t1_response_4: 54, t1_response_5: 55, t1_response_6: 56, t1_response_7: 57, t1_response_8: 58, t1_response_9: 59, t2_report_onset: 60, t2_response_0: 61, t2_response_2: 62, t2_response_3: 63, t2_response_4: 64, t2_response_5: 65, t2_response_6: 66, t2_response_7: 67, t2_response_8: 68, t2_response_9: 69, t2_response_timeout: 70, practice_feedback_onset: 80, iti_onset: 90}
+  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1, prefix: [1, 225, 1, 0]}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+qa:
+  output_dir: outputs/qa
+  enable_scaling: true
+  timing_scale: 0.10
+  min_frames: 1
+  strict: false
+  max_wait_s: 30.0
+  acceptance_criteria:
+    required_columns: [trial_id, block_id, block_idx, trial_index_in_block, condition, condition_id, interval, lag, t2_present, t1, t2, t1_response, t1_rt, t1_correct, t2_response, t2_rt, t2_correct, t2_correct_given_t1, response_key, response_rt, response_correct]

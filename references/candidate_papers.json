@@ -1,0 +1,4356 @@
+[
+  {
+    "id": "W2080211902",
+    "title": "Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research",
+    "authors": [
+      "Matthew J. C. Crump",
+      "John V. McDonnell",
+      "Todd M. Gureckis"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0057410",
+    "citation_count": 1682,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2154029491",
+    "title": "An ERP study on L2 syntax processing: When do learners fail?",
+    "authors": [
+      "Nienke Meulman",
+      "Laurie A. Stowe",
+      "Simone Sprenger",
+      "Moniek Bresser",
+      "Monika S. Schmid"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.01072",
+    "citation_count": 1010,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987937684",
+    "title": "Mental Training Affects Distribution of Limited Brain Resources",
+    "authors": [
+      "Heleen A. Slagter",
+      "Antoine Lutz",
+      "Lawrence L. Greischar",
+      "Andrew D Francis",
+      "Sander Nieuwenhuis",
+      "James M. Davis",
+      "Richard J. Davidson"
+    ],
+    "year": 2007,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0050138",
+    "citation_count": 761,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2096175448",
+    "title": "The selective processing of briefly presented affective pictures: An ERP analysis",
+    "authors": [
+      "Harald T. Schupp",
+      "Markus Jungh\u00f6fer",
+      "Almut I. Weike",
+      "Alfons O. Hamm"
+    ],
+    "year": 2004,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2004.00174.x",
+    "citation_count": 683,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104624711",
+    "title": "Pulsed Out of Awareness: EEG Alpha Oscillations Represent a Pulsed-Inhibition of Ongoing Cortical Processing",
+    "authors": [
+      "Kyle E. Mathewson",
+      "Alejandro Lleras",
+      "Diane M. Beck",
+      "Monica Fabiani",
+      "Tony Ro",
+      "Gabriele Gratton"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00099",
+    "citation_count": 545,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987576849",
+    "title": "Event related potentials to emotional adjectives during reading",
+    "authors": [
+      "Cornelia Herbert",
+      "Markus Jungh\u00f6fer",
+      "Johanna Ki\u00dfler"
+    ],
+    "year": 2008,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2007.00638.x",
+    "citation_count": 461,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2156150357",
+    "title": "Selective Attention and Audiovisual Integration: Is Attending to Both Modalities a Prerequisite for Early Integration?",
+    "authors": [
+      "Durk Talsma",
+      "Tracy Jill Doty",
+      "Marty G. Woldorff"
+    ],
+    "year": 2006,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhk016",
+    "citation_count": 443,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1985900201",
+    "title": "Attentional rubbernecking: Cognitive control and personality in emotion-induced blindness",
+    "authors": [
+      "Steven B. Most",
+      "Marvin M. Chun",
+      "David M Widders",
+      "David H. Zald"
+    ],
+    "year": 2005,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196754",
+    "citation_count": 417,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098445954",
+    "title": "Made you blink! Contingent attentional capture produces a spatial blink",
+    "authors": [
+      "Charles L. Folk",
+      "Andrew B. Leber",
+      "Howard E. Egeth"
+    ],
+    "year": 2002,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194741",
+    "citation_count": 410,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1989882873",
+    "title": "Relations between emotion, memory, and attention: Evidence from taboo Stroop, lexical decision, and immediate memory tasks",
+    "authors": [
+      "Donald G. MacKay",
+      "Meredith A. Shafto",
+      "Jennifer K. Taylor",
+      "Diane E. Marian",
+      "Lise Abrams",
+      "Jennifer Dyer-Seymour"
+    ],
+    "year": 2004,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03195840",
+    "citation_count": 390,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2019289642",
+    "title": "Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats",
+    "authors": [
+      "Sarah N. Garfinkel",
+      "Ludovico Minati",
+      "Marcus A. Gray",
+      "Anil K. Seth",
+      "Raymond J. Dolan",
+      "Hugo Critchley"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3507-13.2014",
+    "citation_count": 345,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2151876785",
+    "title": "Pupil dilation deconvolution reveals the dynamics of attention at high temporal resolution",
+    "authors": [
+      "Stefan M. Wierda",
+      "Hedderik van Rijn",
+      "Niels Taatgen",
+      "Sander Martens"
+    ],
+    "year": 2012,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1201858109",
+    "citation_count": 330,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008802771",
+    "title": "Ongoing Spontaneous Activity Controls Access to Consciousness: A Neuronal Model for Inattentional Blindness",
+    "authors": [
+      "Stanislas Dehaene",
+      "Jean\u2010Pierre Changeux"
+    ],
+    "year": 2005,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0030141",
+    "citation_count": 329,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124706784",
+    "title": "The simultaneous type, serial token model of temporal attention and working memory.",
+    "authors": [
+      "Howard Bowman",
+      "Brad Wyble"
+    ],
+    "year": 2007,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/0033-295x.114.1.38",
+    "citation_count": 310,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098899462",
+    "title": "The Neural Fate of Consciously Perceived and Missed Events in the Attentional Blink",
+    "authors": [
+      "Ren\u00e9 Marois",
+      "Do-Joon Yi",
+      "Marvin M. Chun"
+    ],
+    "year": 2004,
+    "journal": "Neuron",
+    "doi_or_url": "https://doi.org/10.1016/s0896-6273(04)00012-1",
+    "citation_count": 308,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120074559",
+    "title": "Cortical Mechanisms of Feature-based Attentional Control",
+    "authors": [
+      "Taosheng Liu"
+    ],
+    "year": 2003,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhg080",
+    "citation_count": 299,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117536413",
+    "title": "The Beneficial Effect of Concurrent Task-Irrelevant Mental Activity on Temporal Attention",
+    "authors": [
+      "Christian N. L. Olivers",
+      "Sander Nieuwenhuis"
+    ],
+    "year": 2005,
+    "journal": "Psychological Science",
+    "doi_or_url": "https://doi.org/10.1111/j.0956-7976.2005.01526.x",
+    "citation_count": 295,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132581386",
+    "title": "The beneficial effects of additional task load, positive affect, and instruction on the attentional blink.",
+    "authors": [
+      "Christian N. L. Olivers",
+      "Sander Nieuwenhuis"
+    ],
+    "year": 2006,
+    "journal": "Journal of Experimental Psychology Human Perception & Performance",
+    "doi_or_url": "https://doi.org/10.1037/0096-1523.32.2.364",
+    "citation_count": 292,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116881659",
+    "title": "Spatially Selective Representations of Voluntary and Stimulus-Driven Attentional Priority in Human Occipital, Parietal, and Frontal Cortex",
+    "authors": [
+      "John T. Serences",
+      "Steven Yantis"
+    ],
+    "year": 2006,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhj146",
+    "citation_count": 274,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116243369",
+    "title": "Delayed working memory consolidation during the attentional blink",
+    "authors": [
+      "Edward K. Vogel",
+      "Steven J. Luck"
+    ],
+    "year": 2002,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196329",
+    "citation_count": 250,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2130195204",
+    "title": "Response variability in Attention-Deficit/Hyperactivity Disorder: a neuronal and glial energetics hypothesis.",
+    "authors": [
+      "Vivienne A. Russell",
+      "Robert D. Oades",
+      "Rosemary Tannock",
+      "Peter R. Killeen",
+      "Judith G Auerbach",
+      "Espen Borg\u00e5 Johansen",
+      "Terje Sagvolden"
+    ],
+    "year": 2006,
+    "journal": "Behavioral and Brain Functions",
+    "doi_or_url": "https://doi.org/10.1186/1744-9081-2-30",
+    "citation_count": 241,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2153098120",
+    "title": "Consciousness and Attention: On Sufficiency and Necessity",
+    "authors": [
+      "Jeroen J. A. van Boxtel",
+      "Naotsugu Tsuchiya",
+      "Christof Koch"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2010.00217",
+    "citation_count": 239,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2010149878",
+    "title": "Mindless reading: Eye-movement characteristics are similar in scanning letter strings and reading texts",
+    "authors": [
+      "Fran\u00e7oise Vitu",
+      "J. Kevin \u039f\u2019Regan",
+      "Albrecht W. Inhoff",
+      "Richard Topolski"
+    ],
+    "year": 1995,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03213060",
+    "citation_count": 233,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2022269431",
+    "title": "A Unified attentional bottleneck in the human brain",
+    "authors": [
+      "Michael Tombu",
+      "Christopher L. Asplund",
+      "Paul E. Dux",
+      "Douglass Godwin",
+      "Justin W. Martin",
+      "Ren\u00e9 Marois"
+    ],
+    "year": 2011,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "doi_or_url": "https://doi.org/10.1073/pnas.1103583108",
+    "citation_count": 222,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024141583",
+    "title": "Neural Basis of Superior Performance of Action Videogame Players in an Attention-Demanding Task",
+    "authors": [
+      "Jyoti Mishra",
+      "Marla Zinni",
+      "Daphn\u00e9 Bavelier",
+      "Steven A. Hillyard"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4834-10.2011",
+    "citation_count": 215,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2004284881",
+    "title": "Cognitive functions of the posterior parietal cortex: top-down and bottom-up attentional control",
+    "authors": [
+      "Sarah Shomstein"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Integrative Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnint.2012.00038",
+    "citation_count": 211,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058843555",
+    "title": "Spreading the sparing: against a limited-capacity account of the attentional blink",
+    "authors": [
+      "Christian N. L. Olivers",
+      "Stefan Van der Stigchel",
+      "Johan Hulleman"
+    ],
+    "year": 2005,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-005-0029-z",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1994572491",
+    "title": "Dynamics of the Central Bottleneck: Dual-Task and Task Uncertainty",
+    "authors": [
+      "Mariano Sigman",
+      "Stanislas Dehaene"
+    ],
+    "year": 2006,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.0040220",
+    "citation_count": 202,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100207218",
+    "title": "What drives memory-driven attentional capture? The effects of memory type, display type, and search type.",
+    "authors": [
+      "Christian N. L. Olivers"
+    ],
+    "year": 2009,
+    "journal": "Journal of Experimental Psychology Human Perception & Performance",
+    "doi_or_url": "https://doi.org/10.1037/a0013896",
+    "citation_count": 199,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2113124342",
+    "title": "Tracking the allocation of attention using human pupillary oscillations",
+    "authors": [
+      "Marnix Naber",
+      "George A. Alvarez",
+      "Ken Nakayama"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00919",
+    "citation_count": 198,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4293794846",
+    "title": "Methods in cognitive pupillometry: Design, preprocessing, and statistical analysis",
+    "authors": [
+      "Sebastiaan Math\u00f4t",
+      "Ana Vilotijevi\u0107"
+    ],
+    "year": 2022,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-022-01957-7",
+    "citation_count": 198,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2495483140",
+    "title": "Uncovering the neural magnitude and spatio-temporal dynamics of natural image categorization in a fast visual stream",
+    "authors": [
+      "Talia L. Retter",
+      "Bruno Rossion"
+    ],
+    "year": 2016,
+    "journal": "Neuropsychologia",
+    "doi_or_url": "https://doi.org/10.1016/j.neuropsychologia.2016.07.028",
+    "citation_count": 194,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1982678265",
+    "title": "Trial-by-Trial Variations in Subjective Attentional State are Reflected in Ongoing Prestimulus EEG Alpha Oscillations",
+    "authors": [
+      "James S. P. Macdonald",
+      "Santosh Mathan",
+      "Nick Yeung"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00082",
+    "citation_count": 189,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2905110202",
+    "title": "ZuCo, a simultaneous EEG and eye-tracking resource for natural sentence reading",
+    "authors": [
+      "Nora Hollenstein",
+      "Jonathan Rotsztejn",
+      "Marius Troendle",
+      "Andreas Pedroni",
+      "Ce Zhang",
+      "Nicolas Langer"
+    ],
+    "year": 2018,
+    "journal": "Scientific Data",
+    "doi_or_url": "https://doi.org/10.1038/sdata.2018.291",
+    "citation_count": 188,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2107277457",
+    "title": "Quick Minds Don't Blink: Electrophysiological Correlates of Individual Differences in Attentional Selection",
+    "authors": [
+      "Sander Martens",
+      "Jaap Munneke",
+      "Hendrikus Smid",
+      "Addie Johnson"
+    ],
+    "year": 2006,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2006.18.9.1423",
+    "citation_count": 184,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024883397",
+    "title": "Anxiety modulates the degree of attentive resources required to process emotional faces",
+    "authors": [
+      "Elaine Fox",
+      "Riccardo Russo",
+      "George Georgiou"
+    ],
+    "year": 2005,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.5.4.396",
+    "citation_count": 183,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119093605",
+    "title": "The Role of the Locus Coeruleus in Mediating the Attentional Blink: A Neurocomputational Theory.",
+    "authors": [
+      "Sander Nieuwenhuis",
+      "Mark S. Gilzenrat",
+      "Benjamin D. Holmes",
+      "Jonathan D. Cohen"
+    ],
+    "year": 2005,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/0096-3445.134.3.291",
+    "citation_count": 181,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125572598",
+    "title": "What the heart forgets: Cardiac timing influences memory for words and is modulated by metacognition and interoceptive sensitivity",
+    "authors": [
+      "Sarah N. Garfinkel",
+      "Adam B. Barrett",
+      "Ludovico Minati",
+      "Raymond J. Dolan",
+      "Anil K. Seth",
+      "Hugo Critchley"
+    ],
+    "year": 2013,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/psyp.12039",
+    "citation_count": 181,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2804035092",
+    "title": "A High Performance Spelling System based on EEG-EOG Signals With Visual Feedback",
+    "authors": [
+      "Min-Ho Lee",
+      "John Williamson",
+      "Dong-Ok Won",
+      "Siamac Fazli",
+      "Seong\u2013Whan Lee"
+    ],
+    "year": 2018,
+    "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "doi_or_url": "https://doi.org/10.1109/tnsre.2018.2839116",
+    "citation_count": 175,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2592555895",
+    "title": "Where next for research on fixation, inspiration and creativity in design?",
+    "authors": [
+      "Nathan Crilly",
+      "Carlos Cardoso"
+    ],
+    "year": 2017,
+    "journal": "Design Studies",
+    "doi_or_url": "https://doi.org/10.1016/j.destud.2017.02.001",
+    "citation_count": 174,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160610302",
+    "title": "Three stages of emotional word processing: an ERP study with rapid serial visual presentation",
+    "authors": [
+      "Dandan Zhang",
+      "Weiqi He",
+      "Ting Wang",
+      "Wenbo Luo",
+      "Xiangru Zhu",
+      "Ruolei Gu",
+      "Hong Li",
+      "Yuejia Luo"
+    ],
+    "year": 2014,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nst188",
+    "citation_count": 172,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2599889854",
+    "title": "Is Attentional Resource Allocation Across Sensory Modalities Task-Dependent?",
+    "authors": [
+      "Basil Wahn",
+      "Peter K\u00f6nig"
+    ],
+    "year": 2017,
+    "journal": "Advances in Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.5709/acp-0209-2",
+    "citation_count": 169,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2001669236",
+    "title": "Spatial attention freezes during the attention blink",
+    "authors": [
+      "Roberto Dell\u2019Acqua",
+      "Paola Sessa",
+      "Pierre Jolic\u0153ur",
+      "Nicolas Robitaille"
+    ],
+    "year": 2006,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2006.00411.x",
+    "citation_count": 168,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135400163",
+    "title": "Attention and P300-based BCI performance in people with amyotrophic lateral sclerosis",
+    "authors": [
+      "Angela Riccio",
+      "Luca Simione",
+      "Francesca Schettini",
+      "Alessia Pizzimenti",
+      "Maurizio Inghilleri",
+      "Marta Olivetti Belardinelli",
+      "Donatella Mattia",
+      "Febo Cincotti"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00732",
+    "citation_count": 158,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2509016143",
+    "title": "Combining spatial and temporal expectations to improve visual perception",
+    "authors": [
+      "Gustavo Rohenkohl",
+      "Ian C. Gould",
+      "Jo\u00e3o Pessoa",
+      "Anna C. Nobre"
+    ],
+    "year": 2014,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/14.4.8",
+    "citation_count": 156,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2586882322",
+    "title": "Seeing and Conceptualizing: Modularity and the Shallow Contents of Perception",
+    "authors": [
+      "Eric Mandelbaum"
+    ],
+    "year": 2017,
+    "journal": "Philosophy and Phenomenological Research",
+    "doi_or_url": "https://doi.org/10.1111/phpr.12368",
+    "citation_count": 153,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2017733648",
+    "title": "On the impacts of working memory training on executive functioning",
+    "authors": [
+      "Tiina Salminen",
+      "Tilo Strobach",
+      "Torsten Schubert"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2012.00166",
+    "citation_count": 150,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2025365326",
+    "title": "Capturing and holding attention: The impact of emotional words in rapid serial visual presentation",
+    "authors": [
+      "Karen J. Mathewson",
+      "Karen M. Arnell",
+      "Craig A. Mansfield"
+    ],
+    "year": 2008,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.36.1.182",
+    "citation_count": 149,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2109972592",
+    "title": "The Brain's Router: A Cortical Network Model of Serial Processing in the Primate Brain",
+    "authors": [
+      "Ariel Zylberberg",
+      "Diego Fern\u00e1ndez Slezak",
+      "Pieter R. Roelfsema",
+      "Stanislas Dehaene",
+      "Mariano Sigman"
+    ],
+    "year": 2010,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1000765",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2768186777",
+    "title": "Discrete and continuous mechanisms of temporal selection in rapid visual streams",
+    "authors": [
+      "S\u00e9bastien Marti",
+      "Stanislas Dehaene"
+    ],
+    "year": 2017,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-017-02079-x",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044432453",
+    "title": "Crowdsourcing for Cognitive Science \u2013 The Utility of Smartphones",
+    "authors": [
+      "Harriet R. Brown",
+      "Peter Zeidman",
+      "Peter Smittenaar",
+      "Rick A. Adams",
+      "Fiona McNab",
+      "Robb B. Rutledge",
+      "Raymond J. Dolan"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0100662",
+    "citation_count": 140,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073135664",
+    "title": "Human Scalp Potentials Reflect a Mixture of Decision-Related Signals during Perceptual Choices",
+    "authors": [
+      "Marios G. Philiastides",
+      "Hauke R. Heekeren",
+      "Paul Sajda"
+    ],
+    "year": 2014,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3012-14.2014",
+    "citation_count": 136,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171010884",
+    "title": "Theta Phase Synchrony and Conscious Target Perception: Impact of Intensive Mental Training",
+    "authors": [
+      "Heleen A. Slagter",
+      "Antoine Lutz",
+      "Lawrence L. Greischar",
+      "Sander Nieuwenhuis",
+      "Richard J. Davidson"
+    ],
+    "year": 2008,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2009.21125",
+    "citation_count": 135,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2906522294",
+    "title": "Humans strategically shift decision bias by flexibly adjusting sensory evidence accumulation",
+    "authors": [
+      "Niels A Kloosterman",
+      "Jan Willem de Gee",
+      "Markus Werkle\u2010Bergner",
+      "Ulman Lindenberger",
+      "Douglas D. Garrett",
+      "Johannes J. Fahrenfort"
+    ],
+    "year": 2019,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.37321",
+    "citation_count": 127,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1983097758",
+    "title": "Attention, Awareness, and the Perception of Auditory Scenes",
+    "authors": [
+      "Joel S. Snyder",
+      "Melissa K. Gregg",
+      "David M. Weintraub",
+      "Claude Alain"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00015",
+    "citation_count": 127,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1974229752",
+    "title": "Prioritized Detection of Personally Familiar Faces",
+    "authors": [
+      "M. Ida Gobbini",
+      "Jason Gors",
+      "Yaroslav O. Halchenko",
+      "Courtney Rogers",
+      "J. Swaroop Guntupalli",
+      "Howard C. Hughes",
+      "Carlo Cipolli"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0066620",
+    "citation_count": 126,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W344796727",
+    "title": "Color associations to emotion and emotion-laden words: A collection of norms for stimulus construction and selection",
+    "authors": [
+      "Tina M. Sutton",
+      "Jeanette Altarriba"
+    ],
+    "year": 2015,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-015-0598-8",
+    "citation_count": 125,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041874498",
+    "title": "A Temporal Bottleneck in the Language Comprehension Network",
+    "authors": [
+      "Laurianne Vagharchakian",
+      "Ghislaine Dehaene\u2010Lambertz",
+      "Christophe Pallier",
+      "Stanislas Dehaene"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5685-11.2012",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2137063860",
+    "title": "The emotional attentional blink: what we know so far",
+    "authors": [
+      "Maureen McHugo",
+      "Bunmi O. Olatunji",
+      "David H. Zald"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00151",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068636181",
+    "title": "Load-induced inattentional deafness",
+    "authors": [
+      "Dana Raveh",
+      "Nilli Lavie"
+    ],
+    "year": 2014,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-014-0776-2",
+    "citation_count": 122,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147828539",
+    "title": "A shared cortical bottleneck underlying Attentional Blink and Psychological Refractory Period",
+    "authors": [
+      "S\u00e9bastien Marti",
+      "Mariano Sigman",
+      "Stanislas Dehaene"
+    ],
+    "year": 2011,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2011.09.063",
+    "citation_count": 122,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053150099",
+    "title": "Timing attention: Cuing target onset interval attenuates the attentional blink",
+    "authors": [
+      "Sander Martens",
+      "Addie Johnson"
+    ],
+    "year": 2005,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03195312",
+    "citation_count": 122,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2032456170",
+    "title": "Attending, ignoring, and repetition: On the relation between negative priming and inhibition of return",
+    "authors": [
+      "Bruce Milliken",
+      "Steven P. Tipper",
+      "George Houghton",
+      "Juan Lupi\u00e1\u00f1ez"
+    ],
+    "year": 2000,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03212130",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2247664464",
+    "title": "Electroencephalography (EEG) as a Research Tool in the Information Systems Discipline: Foundations, Measurement, and Applications",
+    "authors": [
+      "Gernot M\u00fcller-Putz",
+      "Ren\u00e9 Riedl\u202c",
+      "Selina C. Wriessnegger"
+    ],
+    "year": 2015,
+    "journal": "Communications of the Association for Information Systems",
+    "doi_or_url": "https://doi.org/10.17705/1cais.03746",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2913330663",
+    "title": "Dopamine restores cognitive motivation in Parkinson\u2019s disease",
+    "authors": [
+      "Sara McGuigan",
+      "Shou-Han Zhou",
+      "M\u00e9adhbh Brosnan",
+      "Dominic Thyagarajan",
+      "Mark A. Bellgrove",
+      "Trevor T.\u2010J. Chong"
+    ],
+    "year": 2018,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awy341",
+    "citation_count": 116,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044310907",
+    "title": "Single-Trial Classification of Event-Related Potentials in Rapid Serial Visual Presentation Tasks Using Supervised Spatial Filtering",
+    "authors": [
+      "Hubert Cecotti",
+      "Miguel P. Eckstein",
+      "Barry Giesbrecht"
+    ],
+    "year": 2014,
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "doi_or_url": "https://doi.org/10.1109/tnnls.2014.2302898",
+    "citation_count": 115,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129490223",
+    "title": "Homing in on consciousness in the nervous system: An action-based synthesis",
+    "authors": [
+      "Ezequiel Morsella",
+      "Christine A. Godwin",
+      "Tiffany K. Jantz",
+      "Stephen Krieger",
+      "Adam Gazzaley"
+    ],
+    "year": 2015,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x15000643",
+    "citation_count": 112,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159197757",
+    "title": "Temporal constraints on conscious vision: On the ubiquitous nature of the attentional blink",
+    "authors": [
+      "Mark Nieuwenstein",
+      "Erik Van der Burg",
+      "Jan Theeuwes",
+      "Brad Wyble",
+      "M. P\u00f6tter"
+    ],
+    "year": 2009,
+    "journal": "Journal of Vision",
+    "doi_or_url": "https://doi.org/10.1167/9.9.18",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1989314322",
+    "title": "Processing Efficiency of Divided Spatial Attention Mechanisms in Human Visual Cortex",
+    "authors": [
+      "Stephanie A. McMains",
+      "David C. Somers"
+    ],
+    "year": 2005,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2647-05.2005",
+    "citation_count": 111,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2071773174",
+    "title": "Disgust- and not fear-evoking images hold our attention",
+    "authors": [
+      "Johanna C. van Hooff",
+      "Christel Devue",
+      "Paula Vieweg",
+      "Jan Theeuwes"
+    ],
+    "year": 2013,
+    "journal": "Acta Psychologica",
+    "doi_or_url": "https://doi.org/10.1016/j.actpsy.2013.02.001",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120999766",
+    "title": "Working memory and the attentional blink: Blink size is predicted by individual differences in operation span",
+    "authors": [
+      "Lorenza S. Colzato",
+      "Michiel Spap\u00e9",
+      "Merel M. Pannebakker",
+      "Bernhard Hommel"
+    ],
+    "year": 2007,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193090",
+    "citation_count": 109,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1995913285",
+    "title": "Attentional capture by visual singletons is mediated by top\u2010down task set: New evidence from the N2pc component",
+    "authors": [
+      "M\u00f3nika Kiss",
+      "Pierre Jolic\u0153ur",
+      "Roberto Dell\u2019Acqua",
+      "Martin Eimer"
+    ],
+    "year": 2008,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2008.00700.x",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W38034072",
+    "title": "THE POVERTY OF SCIENTISM IN INFORMATION SYSTEMS",
+    "authors": [
+      "Heinz K. Klein",
+      "Kalle Lyytinen"
+    ],
+    "year": 2000,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2023.1295431",
+    "citation_count": 103,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2067460000",
+    "title": "High familiarity enhances visual change detection for face stimuli",
+    "authors": [
+      "Heather Buttle",
+      "Jane E. Raymond"
+    ],
+    "year": 2003,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194853",
+    "citation_count": 101,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1978307908",
+    "title": "Personality predicts temporal attention costs in the attentional blink paradigm",
+    "authors": [
+      "Mary H. MacLean",
+      "Karen M. Arnell"
+    ],
+    "year": 2010,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/pbr.17.4.556",
+    "citation_count": 101,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971880420",
+    "title": "Do images involuntarily trigger search? A test of Pillsbury\u2019s hypothesis",
+    "authors": [
+      "Harold Pashler",
+      "Ling-Po Shiu"
+    ],
+    "year": 1999,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03210833",
+    "citation_count": 100,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162847201",
+    "title": "Visual Search Elicits the Electrophysiological Marker of Visual Working Memory",
+    "authors": [
+      "Stephen M. Emrich",
+      "Naseem Al-Aidroos",
+      "Jay Pratt",
+      "Susanne Ferber"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0008042",
+    "citation_count": 99,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119250420",
+    "title": "Attentional dynamics and visual perception: mechanisms of spatial disorientation in Alzheimer's disease",
+    "authors": [
+      "Voyko Kavcic",
+      "C. J. Duffy"
+    ],
+    "year": 2003,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awg105",
+    "citation_count": 99,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2805466995",
+    "title": "A novel P300 BCI speller based on the Triple RSVP paradigm",
+    "authors": [
+      "Zhimin Lin",
+      "Chi Zhang",
+      "Ying Zeng",
+      "Tong Li",
+      "Bin Yan"
+    ],
+    "year": 2018,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-018-21717-y",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2004697964",
+    "title": "The effect of fearful faces on the attentional blink is task dependent",
+    "authors": [
+      "Timo Stein",
+      "Jan Zwickel",
+      "J. Ritter",
+      "Maria Kitzmantel",
+      "W. X. Schneider"
+    ],
+    "year": 2009,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/pbr.16.1.104",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167677017",
+    "title": "Real-World Neuroimaging Technologies",
+    "authors": [
+      "Kaleb McDowell",
+      "Chin\u2010Teng Lin",
+      "Kelvin S. Oie",
+      "Tzyy\u2010Ping Jung",
+      "Stephen M. Gordon",
+      "Keith W. Whitaker",
+      "Shih-Yu Li",
+      "Shao-Wei Lu",
+      "W. David Hairston"
+    ],
+    "year": 2013,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2013.2260791",
+    "citation_count": 97,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2059688125",
+    "title": "Task-irrelevant visual motion and flicker attenuate the attentional blink",
+    "authors": [
+      "Isabel Arend",
+      "Stephen J. Johnston",
+      "Kimron L. Shapiro"
+    ],
+    "year": 2006,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193969",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2010555230",
+    "title": "Visual masking plays two roles in the attentional blink",
+    "authors": [
+      "Jamie C. Brehaut",
+      "James T. Enns",
+      "Vincent Di Lollo"
+    ],
+    "year": 1999,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03206192",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4206100185",
+    "title": "ICTs and Speed Learning in Special Education: High-Consciousness Training Strategies for High-Capacity Learners through Metacognition Lens",
+    "authors": [
+      "Eleni Mitsea",
+      "Athanasios Drigas",
+      "Charalabos Skianis"
+    ],
+    "year": 2022,
+    "journal": "Technium Social Sciences Journal",
+    "doi_or_url": "https://doi.org/10.47577/tssj.v27i1.5599",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W42205683",
+    "title": "Playing video games does not make for better visual attention skills",
+    "authors": [
+      "Karen Murphy",
+      "Amy Ellen Spencer"
+    ],
+    "year": 2009,
+    "journal": "Griffith Research Online (Griffith University, Queensland, Australia)",
+    "doi_or_url": "https://openalex.org/W42205683",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116235099",
+    "title": "Matching of visual input to only one item at any one time",
+    "authors": [
+      "Roos Houtkamp",
+      "Pieter R. Roelfsema"
+    ],
+    "year": 2008,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-008-0157-3",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3121686195",
+    "title": "The human endogenous attentional control network includes a ventro-temporal cortical node",
+    "authors": [
+      "Ilaria Sani",
+      "Heiko Stemmann",
+      "Bradley Caron",
+      "Daniel Bullock",
+      "Torsten Stemmler",
+      "Manfred Fahle",
+      "Franco Pestilli",
+      "Winrich A. Freiwald"
+    ],
+    "year": 2021,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-020-20583-5",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068611626",
+    "title": "Enhanced Memory for Scenes Presented at Behaviorally Relevant Points in Time",
+    "authors": [
+      "Jeffrey Y. Lin",
+      "A. Pype",
+      "Scott O. Murray",
+      "Geoffrey M. Boynton"
+    ],
+    "year": 2010,
+    "journal": "PLoS Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pbio.1000337",
+    "citation_count": 92,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998808110",
+    "title": "Tonic and phasic alertness training: a novel behavioral therapy to improve spatial and non-spatial attention in patients with hemispatial neglect",
+    "authors": [
+      "Joseph DeGutis"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00060",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121645722",
+    "title": "Emotion Effects on Timing: Attention versus Pacemaker Accounts",
+    "authors": [
+      "Ming Lui",
+      "Trevor B. Penney",
+      "Annett Schirmer"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0021829",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2161579387",
+    "title": "Enhanced Processing of Threat Stimuli under Limited Attentional Resources",
+    "authors": [
+      "Benedetto De Martino",
+      "Raffa\u00ebl Kalisch",
+      "Geraint Rees",
+      "Raymond J. Dolan"
+    ],
+    "year": 2008,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhn062",
+    "citation_count": 91,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098229274",
+    "title": "Emotion Modulation of Visual Attention: Categorical and Temporal Characteristics",
+    "authors": [
+      "Bethany G. Ciesielski",
+      "Thomas Armstrong",
+      "David H. Zald",
+      "Bunmi O. Olatunji"
+    ],
+    "year": 2010,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0013860",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073966277",
+    "title": "The role of attention and familiarity in face identification",
+    "authors": [
+      "Margaret C. Jackson",
+      "Jane E. Raymond"
+    ],
+    "year": 2006,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03208757",
+    "citation_count": 91,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2585964843",
+    "title": "BLINKER: Automated Extraction of Ocular Indices from EEG Enabling Large-Scale Analysis",
+    "authors": [
+      "Kelly Kleifges",
+      "Nima Bigdely-Shamlo",
+      "Scott E. Kerick",
+      "Kay A. Robbins"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2017.00012",
+    "citation_count": 90,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2254301624",
+    "title": "Vivid: How valence and arousal influence word processing under different task demands",
+    "authors": [
+      "Nathaniel Delaney-Busch",
+      "Gianna Wilkie",
+      "Gina R. Kuperberg"
+    ],
+    "year": 2016,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-016-0402-y",
+    "citation_count": 88,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2121373129",
+    "title": "The role of timing in the attentional boost effect",
+    "authors": [
+      "Khena M. Swallow",
+      "Yuhong Jiang"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-010-0045-y",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094208486",
+    "title": "Effect of attentional load on audiovisual speech perception: evidence from ERPs",
+    "authors": [
+      "Agn\u00c3 \u0308s Alsius",
+      "Riikka M\u00c3\u00b6tt\u00c3\u00b6nen",
+      "Mikko Sams",
+      "Salvador Soto\u2010Faraco",
+      "Kaisa Tiippana"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00727",
+    "citation_count": 86,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2124432496",
+    "title": "Subitizing requires attention",
+    "authors": [
+      "Christian N. L. Olivers",
+      "Derrick G. Watson"
+    ],
+    "year": 2008,
+    "journal": "Visual Cognition",
+    "doi_or_url": "https://doi.org/10.1080/13506280701825861",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2130177317",
+    "title": "Affective Prime and Target Picture Processing: An ERP Analysis of Early and Late Interference Effects",
+    "authors": [
+      "Tobias Flaisch",
+      "Jessica Stockburger",
+      "Harald T. Schupp"
+    ],
+    "year": 2008,
+    "journal": "Brain Topography",
+    "doi_or_url": "https://doi.org/10.1007/s10548-008-0045-6",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159114244",
+    "title": "Conceptual Short Term Memory in Perception and Thought",
+    "authors": [
+      "Mary C. Potter"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00113",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2031755896",
+    "title": "Variations in the magnitude of attentional capture: Testing a two-process model",
+    "authors": [
+      "Brian A. Anderson",
+      "Charles L. Folk"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/app.72.2.342",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2077330010",
+    "title": "Attentional capacity for processing concurrent stimuli is larger across sensory modalities than within a modality",
+    "authors": [
+      "Durk Talsma",
+      "Tracy Jill Doty",
+      "Roy E. Strowd",
+      "Marty G. Woldorff"
+    ],
+    "year": 2006,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2006.00452.x",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2759529727",
+    "title": "Different Neural Correlates of Emotion-Label Words and Emotion-Laden Words: An ERP Study",
+    "authors": [
+      "Juan Zhang",
+      "Chenggang Wu",
+      "Yaxuan Meng",
+      "Zhen Yuan"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2017.00455",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2002621372",
+    "title": "Developmental Eye Movement Test: What is it Really Measuring?",
+    "authors": [
+      "Lauren N. Ayton",
+      "Larry A. Abel",
+      "Tim Fricke",
+      "Neville A. McBrien"
+    ],
+    "year": 2009,
+    "journal": "Optometry and Vision Science",
+    "doi_or_url": "https://doi.org/10.1097/opx.0b013e3181a6a4b3",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166598619",
+    "title": "Early cortical facilitation for emotionally arousing targets during the attentional blink",
+    "authors": [
+      "Andreas Keil",
+      "Niklas Ihssen",
+      "Sabine Heim"
+    ],
+    "year": 2006,
+    "journal": "BMC Biology",
+    "doi_or_url": "https://doi.org/10.1186/1741-7007-4-23",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2520944409",
+    "title": "The Temporal Dynamics of Scene Processing: A Multifaceted EEG Investigation",
+    "authors": [
+      "Assaf Harel",
+      "Iris I. A. Groen",
+      "Dwight J. Kravitz",
+      "Leon Y. Deouell",
+      "Chris I. Baker"
+    ],
+    "year": 2016,
+    "journal": "eNeuro",
+    "doi_or_url": "https://doi.org/10.1523/eneuro.0139-16.2016",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2071003439",
+    "title": "Rate Limits of Sensorimotor Synchronization",
+    "authors": [
+      "Bruno H. Repp"
+    ],
+    "year": 2006,
+    "journal": "Advances in Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.2478/v10053-008-0053-9",
+    "citation_count": 81,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1970718424",
+    "title": "Involuntary transfer of a top-down attentional set into the focus of attention: Evidence from a contingent attentional capture paradigm",
+    "authors": [
+      "Katherine Sledge Moore",
+      "Daniel H. Weissman"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/app.72.6.1495",
+    "citation_count": 80,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2298874732",
+    "title": "All set, indeed! N2pc components reveal simultaneous attentional control settings for multiple target colors.",
+    "authors": [
+      "Anna Grubert",
+      "Martin Eimer"
+    ],
+    "year": 2016,
+    "journal": "Journal of Experimental Psychology Human Perception & Performance",
+    "doi_or_url": "https://doi.org/10.1037/xhp0000221",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2071228993",
+    "title": "True Zero-Training Brain-Computer Interfacing \u2013 An Online Study",
+    "authors": [
+      "Pieter-Jan Kindermans",
+      "Martijn Schreuder",
+      "Benjamin Schrauwen",
+      "Klaus\u2010Robert M\u00fcller",
+      "Michael Tangermann"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0102504",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3004809941",
+    "title": "From ear to eye? No effect of transcutaneous vagus nerve stimulation on human pupil dilation: A report of three studies",
+    "authors": [
+      "Andreas M. Burger",
+      "Willem van der Does",
+      "J. F. Brosschot",
+      "Bart Verkuil"
+    ],
+    "year": 2020,
+    "journal": "Biological Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.biopsycho.2020.107863",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2123119874",
+    "title": "Time course of visual attention with emotional faces",
+    "authors": [
+      "Priyanka Srivastava",
+      "Narayanan Srinivasan"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/app.72.2.369",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2034138868",
+    "title": "A new estimation of the duration of attentional dwell time",
+    "authors": [
+      "Jan Theeuwes",
+      "Richard Godijn",
+      "Jay Pratt"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03206461",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058131604",
+    "title": "A crossmodal attentional blink between vision and touch",
+    "authors": [
+      "Salvador Soto\u2010Faraco",
+      "Charles Spence",
+      "Katherine Fairbank",
+      "Alan Kingstone",
+      "Anne P. Hillstrom",
+      "Kimron L. Shapiro"
+    ],
+    "year": 2002,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196328",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129787568",
+    "title": "Emotional Modulation of Attention: Fear Increases but Disgust Reduces the Attentional Blink",
+    "authors": [
+      "Nicolas Vermeulen",
+      "Jimmy Godefroid",
+      "Martial Mermillod"
+    ],
+    "year": 2009,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0007924",
+    "citation_count": 76,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2113453747",
+    "title": "Neural Competition for Conscious Representation across Time: An fMRI Study",
+    "authors": [
+      "Heleen A. Slagter",
+      "Tom Johnstone",
+      "Iseult A. M. Beets",
+      "Richard J. Davidson"
+    ],
+    "year": 2010,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0010556",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1987699747",
+    "title": "The time course of exogenous and endogenous control of covert attention",
+    "authors": [
+      "Clayton Hickey",
+      "Wieske van Zoest",
+      "Jan Theeuwes"
+    ],
+    "year": 2009,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-009-2094-9",
+    "citation_count": 74,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1546905277",
+    "title": "Rumination in major depressive disorder is associated with impaired neural activation during conflict monitoring",
+    "authors": [
+      "Brandon L. Alderman",
+      "Ryan L. Olson",
+      "Marsha E. Bates",
+      "Edward A. Selby",
+      "Jennifer F. Buckman",
+      "Christopher J. Brush",
+      "Emily Panza",
+      "Amy Kranzler",
+      "David Eddie",
+      "Tracey J. Shors"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00269",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2626451942",
+    "title": "Dynamic Interactions between Top\u2013Down Expectations and Conscious Awareness",
+    "authors": [
+      "Erik L. Meijs",
+      "Heleen A. Slagter",
+      "Floris P. de Lange",
+      "Simon van Gaal"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1952-17.2017",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2156819574",
+    "title": "Eliminating the Attentional Blink through Binaural Beats: A Case for Tailored Cognitive Enhancement",
+    "authors": [
+      "Susan A. Reedijk",
+      "Anne Bolders",
+      "Lorenza S. Colzato",
+      "Bernhard Hommel"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2015.00082",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2014749032",
+    "title": "Positive emotion broadens attention focus through decreased position-specific spatial encoding in early visual cortex: Evidence from ERPs",
+    "authors": [
+      "Naomi Vanlessen",
+      "Valentina Rossi",
+      "Rudi De Raedt",
+      "Gilles Pourtois"
+    ],
+    "year": 2012,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-012-0130-x",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4292767352",
+    "title": "Temporal Dynamics of Neural Responses in Human Visual Cortex",
+    "authors": [
+      "Iris I. A. Groen",
+      "Giovanni Piantoni",
+      "Stephanie Montenegro",
+      "Adeen Flinker",
+      "Sasha Devore",
+      "Orrin Devinsky",
+      "Werner Doyle",
+      "Patricia Dugan",
+      "Daniel Friedman",
+      "Nick F. Ramsey",
+      "Natalia Petridou",
+      "Jonathan Winawer"
+    ],
+    "year": 2022,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1812-21.2022",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1985539757",
+    "title": "Right temporoparietal junction and attentional reorienting",
+    "authors": [
+      "Chi\u2010Fu Chang",
+      "Tzu\u2010Yu Hsu",
+      "Philip Tseng",
+      "Wei\u2010Kuang Liang",
+      "Ovid J. L. Tzeng",
+      "Daisy L. Hung",
+      "Chi\u2010Hung Juan"
+    ],
+    "year": 2012,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.21476",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2010675664",
+    "title": "Task-irrelevant stimulus-reward association induces value-driven attentional capture",
+    "authors": [
+      "Chisato Mine",
+      "Jun Saiki"
+    ],
+    "year": 2015,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-015-0894-5",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2101210596",
+    "title": "The Attentional Blink Reveals Serial Working Memory Encoding: Evidence from Virtual and Human Event-related Potentials",
+    "authors": [
+      "Patrick Craston",
+      "Brad Wyble",
+      "Srivas Chennu",
+      "Howard Bowman"
+    ],
+    "year": 2008,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2009.21036",
+    "citation_count": 68,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2177405552",
+    "title": "Improved Neural Signal Classification in a Rapid Serial Visual Presentation Task Using Active Learning",
+    "authors": [
+      "Amar R. Marathe",
+      "Vernon J. Lawhern",
+      "Dongrui Wu",
+      "David Slayback",
+      "Brent J. Lance"
+    ],
+    "year": 2015,
+    "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "doi_or_url": "https://doi.org/10.1109/tnsre.2015.2502323",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1975517462",
+    "title": "Greater attentional blink magnitude is associated with higher levels of anticipatory attention as measured by alpha event-related desynchronization (ERD)",
+    "authors": [
+      "Mary H. MacLean",
+      "Karen M. Arnell"
+    ],
+    "year": 2011,
+    "journal": "Brain Research",
+    "doi_or_url": "https://doi.org/10.1016/j.brainres.2011.02.069",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2735246706",
+    "title": "Interactive Effects of Dopamine Baseline Levels and Cycle Phase on Executive Functions: The Role of Progesterone",
+    "authors": [
+      "Esmeralda Hidalgo\u2010Lopez",
+      "Belinda Pletzer"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2017.00403",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3008420559",
+    "title": "All-or-none face categorization in the human brain",
+    "authors": [
+      "Talia L. Retter",
+      "Fang Jiang",
+      "Michael A. Webster",
+      "Bruno Rossion"
+    ],
+    "year": 2020,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2020.116685",
+    "citation_count": 68,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2126668906",
+    "title": "Taboo words: The effect of emotion on memory for peripheral information",
+    "authors": [
+      "Rebecca Guillet",
+      "Jason Arndt"
+    ],
+    "year": 2009,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.37.6.866",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1991369948",
+    "title": "Evidence for Arousal-Biased Competition in Perceptual Learning",
+    "authors": [
+      "Tae\u2010Ho Lee",
+      "Laurent Itti",
+      "Mara Mather"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00241",
+    "citation_count": 66,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166909087",
+    "title": "Cross-modality attentional blinks without preparatory task-set switching",
+    "authors": [
+      "Karen M. Arnell",
+      "Julie M. Larson"
+    ],
+    "year": 2002,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196305",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2048971329",
+    "title": "When Emotion Blinds: A Spatiotemporal Competition Account of Emotion-Induced Blindness",
+    "authors": [
+      "Lingling Wang",
+      "Briana L. Kennedy",
+      "Steven B. Most"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00438",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2149773188",
+    "title": "Improved control of exogenous attention in action video game players",
+    "authors": [
+      "Matthew S. Cain",
+      "William Prinzmetal",
+      "Arthur P. Shimamura",
+      "Ayelet N. Landau"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00069",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2066868882",
+    "title": "The Impact of Deliberative Strategy Dissociates ERP Components Related to Conflict Processing vs. Reinforcement Learning",
+    "authors": [
+      "Christopher Warren",
+      "Clay B. Holroyd"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2012.00043",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1975194708",
+    "title": "A Brain\u2013Computer Interface (BCI) for the Detection of Mine-Like Objects in Sidescan Sonar Imagery",
+    "authors": [
+      "Christopher Barngrover",
+      "Alric Althoff",
+      "Paul DeGuzman",
+      "Ryan Kastner"
+    ],
+    "year": 2015,
+    "journal": "IEEE Journal of Oceanic Engineering",
+    "doi_or_url": "https://doi.org/10.1109/joe.2015.2408471",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2138999663",
+    "title": "Electrophysiological evidence of visual encoding deficits in a cross\u2010modal attentional blink paradigm",
+    "authors": [
+      "Roberto Dell\u2019Acqua",
+      "P. Jolicoeur",
+      "Francesca Pesciarelli",
+      "Remo Job",
+      "Daniela Palomba"
+    ],
+    "year": 2003,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/1469-8986.00064",
+    "citation_count": 64,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041972860",
+    "title": "Pulvinar and affective significance: responses track moment-to-moment stimulus visibility",
+    "authors": [
+      "Srikanth Padmala"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00064",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2576793066",
+    "title": "Getting ahead of yourself: Parafoveal word expectancy modulates the N400 during sentence reading",
+    "authors": [
+      "Mallory Stites",
+      "Brennan R. Payne",
+      "Kara D. Federmeier"
+    ],
+    "year": 2017,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-016-0492-6",
+    "citation_count": 63,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162165644",
+    "title": "Synchronizing timelines: Relations between fixation durations and N400 amplitudes during sentence reading",
+    "authors": [
+      "Michael Dambacher",
+      "Reinhold Kliegl"
+    ],
+    "year": 2007,
+    "journal": "Brain Research",
+    "doi_or_url": "https://doi.org/10.1016/j.brainres.2007.04.027",
+    "citation_count": 62,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129616641",
+    "title": "Recognition and Memory for Briefly Presented Scenes",
+    "authors": [
+      "Mary C. Potter"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00032",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980244081",
+    "title": "Consciousness of targets during the attentional blink: a gradual or all-or-none dimension?",
+    "authors": [
+      "Sander Nieuwenhuis",
+      "Roy de Kleijn"
+    ],
+    "year": 2010,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-010-0026-1",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950464535",
+    "title": "The perceptual neural trace of memorable unseen scenes",
+    "authors": [
+      "Yalda Mohsenzadeh",
+      "Caitlin Mullin",
+      "Aude Oliva",
+      "Dimitrios Pantazis"
+    ],
+    "year": 2019,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-019-42429-x",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2084608593",
+    "title": "Repetition blindness under minimum memory load: Effects of spatial and temporal proximity and the encoding effectiveness of the first item",
+    "authors": [
+      "Chun R. Luo",
+      "Alfonso Caramazza"
+    ],
+    "year": 1995,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03205464",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2052792244",
+    "title": "Revisiting within-modality and cross-modality attentional blinks: Effects of target\u2014distractor similarity",
+    "authors": [
+      "Karen M. Arnell",
+      "Ryan Jenkins"
+    ],
+    "year": 2004,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03196842",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3123253206",
+    "title": "Are emojis processed like words?: Eye movements reveal the time course of semantic processing for emojified text",
+    "authors": [
+      "Eliza Barach",
+      "Laurie Beth Feldman",
+      "Heather Sheridan"
+    ],
+    "year": 2021,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-020-01864-y",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2892165729",
+    "title": "The Time Course of Target Template Activation Processes during Preparation for Visual Search",
+    "authors": [
+      "Anna Grubert",
+      "Martin Eimer"
+    ],
+    "year": 2018,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0409-18.2018",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1990398913",
+    "title": "Competition in Visual Cortex Impedes Attention to Multiple Items",
+    "authors": [
+      "Paige E. Scalf",
+      "Diane M. Beck"
+    ],
+    "year": 2010,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4207-09.2010",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2613492280",
+    "title": "The influence of attention on value integration",
+    "authors": [
+      "Melina A. Kunar",
+      "Derrick G. Watson",
+      "Konstantinos Tsetsos",
+      "Nick Chater"
+    ],
+    "year": 2017,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-017-1340-7",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166968871",
+    "title": "The Time Course of Attention",
+    "authors": [
+      "Christian N. L. Olivers"
+    ],
+    "year": 2007,
+    "journal": "Current Directions in Psychological Science",
+    "doi_or_url": "https://doi.org/10.1111/j.1467-8721.2007.00466.x",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4213450204",
+    "title": "Decoding rapidly presented visual stimuli from prefrontal ensembles without report nor post-perceptual processing",
+    "authors": [
+      "Joachim Bellet",
+      "Marion Gay",
+      "Abhilash Dwarakanath",
+      "B\u00e9chir Jarraya",
+      "Timo van Kerkoerle",
+      "Stanislas Dehaene",
+      "Theofanis I. Panagiotaropoulos"
+    ],
+    "year": 2022,
+    "journal": "Neuroscience of Consciousness",
+    "doi_or_url": "https://doi.org/10.1093/nc/niac005",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2046381044",
+    "title": "State-dependent attention modulation of human primary visual cortex: A high density ERP study",
+    "authors": [
+      "Valentina Rossi",
+      "Gilles Pourtois"
+    ],
+    "year": 2012,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2012.02.007",
+    "citation_count": 57,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2011244967",
+    "title": "Attend to it now or lose it forever: Selective attention, metacontrast masking, and object substitution",
+    "authors": [
+      "Matthew S. Tata"
+    ],
+    "year": 2002,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194754",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2104744974",
+    "title": "Bidirectional semantic priming in the attentional blink",
+    "authors": [
+      "Mary C. Potter",
+      "Roberto Dell\u2019Acqua",
+      "Francesca Pesciarelli",
+      "Remo Job",
+      "Francesca Peressotti",
+      "Daniel H. O\u2019Connor"
+    ],
+    "year": 2005,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193788",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024163374",
+    "title": "Testing the validity of implicit measures of wanting and liking",
+    "authors": [
+      "Helen Tibboel",
+      "Jan De Houwer",
+      "Adriaan Spruyt",
+      "Matt Field",
+      "Eva Kemps",
+      "Geert Crombez"
+    ],
+    "year": 2011,
+    "journal": "Journal of Behavior Therapy and Experimental Psychiatry",
+    "doi_or_url": "https://doi.org/10.1016/j.jbtep.2011.01.002",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2760383178",
+    "title": "Attention to Color Sharpens Neural Population Tuning via Feedback Processing in the Human Visual Cortex Hierarchy",
+    "authors": [
+      "Mandy V. Bartsch",
+      "Kristian Loewe",
+      "Christian Merkel",
+      "Hans\u2010Jochen Heinze",
+      "Mircea Ariel Schoenfeld",
+      "John K. Tsotsos",
+      "Jens\u2010Max Hopf"
+    ],
+    "year": 2017,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0666-17.2017",
+    "citation_count": 56,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971648440",
+    "title": "Temporal Trade-Off Effects in Sustained Attention: Dynamics in Visual Cortex Predict the Target Detection Performance during Distraction",
+    "authors": [
+      "Matthias J. Wieser",
+      "Andreas Keil"
+    ],
+    "year": 2011,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5632-10.2011",
+    "citation_count": 55,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2171362795",
+    "title": "The duration of the attentional blink in natural scenes depends on stimulus category",
+    "authors": [
+      "Wolfgang Einh\u00e4user",
+      "Christof Koch",
+      "Scott Makeig"
+    ],
+    "year": 2007,
+    "journal": "Vision Research",
+    "doi_or_url": "https://doi.org/10.1016/j.visres.2006.12.007",
+    "citation_count": 55,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3000835147",
+    "title": "Neural dynamics of the attentional blink revealed by encoding orientation selectivity during rapid visual presentation",
+    "authors": [
+      "Matthew F. Tang",
+      "Lucy Ford",
+      "Ehsan Arabzadeh",
+      "James T. Enns",
+      "Troy A. W. Visser",
+      "Jason B. Mattingley"
+    ],
+    "year": 2020,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-019-14107-z",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2412950701",
+    "title": "Dense sampling reveals behavioral oscillations in rapid visual categorization",
+    "authors": [
+      "Jan Drewes",
+      "Weina Zhu",
+      "Andreas Wutz",
+      "David Melcher"
+    ],
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep16290",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980986338",
+    "title": "Neurophysiological bases of exponential sensory decay and top-down memory retrieval: a model",
+    "authors": [
+      "Ariel Zylberberg"
+    ],
+    "year": 2009,
+    "journal": "Frontiers in Computational Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/neuro.10.004.2009",
+    "citation_count": 54,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053630441",
+    "title": "Subliminal Salience Search Illustrated: EEG Identity and Deception Detection on the Fringe of Awareness",
+    "authors": [
+      "Howard Bowman",
+      "Marco Filetti",
+      "Dirk Janssen",
+      "Li Su",
+      "Abdulmajeed Alsufyani",
+      "Brad Wyble"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0054258",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2285720325",
+    "title": "Perceptual Learning Induces Persistent Attentional Capture by Nonsalient Shapes",
+    "authors": [
+      "Zhe Qu",
+      "Steven A. Hillyard",
+      "Yulong Ding"
+    ],
+    "year": 2016,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhv342",
+    "citation_count": 53,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2042160013",
+    "title": "Modulation of Transient and Sustained Response Components of V4 Neurons by Temporal Crowding in Flashed Stimulus Sequences",
+    "authors": [
+      "Brad C. Motter"
+    ],
+    "year": 2006,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.5495-05.2006",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092747797",
+    "title": "Amodal Processing in Human Prefrontal Cortex",
+    "authors": [
+      "Benjamin J. Tamber-Rosenau",
+      "Paul E. Dux",
+      "Michael Tombu",
+      "Christopher L. Asplund",
+      "Ren\u00e9 Marois"
+    ],
+    "year": 2013,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.4601-12.2013",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2507506242",
+    "title": "High-Frequency Binaural Beats Increase Cognitive Flexibility: Evidence from Dual-Task Crosstalk",
+    "authors": [
+      "Bernhard Hommel",
+      "Roberta Sellaro",
+      "Rico Fischer",
+      "Saskia Borg",
+      "Lorenza S. Colzato"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01287",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998971074",
+    "title": "Neuro-cognitive mechanisms of conscious and unconscious visual perception: From a plethora of phenomena to general principles",
+    "authors": [
+      "Markus Kiefer",
+      "Ulrich Ansorge",
+      "John\u00ad\u2013Dylan Haynes",
+      "Fred H. Hamker",
+      "Uwe Mattler",
+      "Rolf Verleger",
+      "Michael Niedeggen"
+    ],
+    "year": 2011,
+    "journal": "Advances in Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.2478/v10053-008-0090-4",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2332968404",
+    "title": "Abnormal Ventral and Dorsal Attention Network Activity during Single and Dual Target Detection in Schizophrenia",
+    "authors": [
+      "Amy M. Jimenez",
+      "Junghee Lee",
+      "Jonathan K. Wynn",
+      "Mark S. Cohen",
+      "Stephen A. Engel",
+      "David C. Glahn",
+      "Keith H. Nuechterlein",
+      "Eric A. Reavis",
+      "Michael F. Green"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00323",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2034445133",
+    "title": "Selective Attention to Task-Irrelevant Emotional Distractors Is Unaffected by the Perceptual Load Associated with a Foreground Task",
+    "authors": [
+      "Catherine Hindi Attar",
+      "Matthias M. M\u00fcller"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0037186",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W562939389",
+    "title": "Soldiers With Posttraumatic Stress Disorder See a World Full of Threat: Magnetoencephalography Reveals Enhanced Tuning to Combat-Related Cues",
+    "authors": [
+      "Rebecca M. Todd",
+      "Matt J. MacDonald",
+      "Paul A. Sedge",
+      "Amanda Robertson",
+      "Rakesh Jetly",
+      "Margot J. Taylor",
+      "Elizabeth W. Pang"
+    ],
+    "year": 2015,
+    "journal": "Biological Psychiatry",
+    "doi_or_url": "https://doi.org/10.1016/j.biopsych.2015.05.011",
+    "citation_count": 51,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092353745",
+    "title": "The Attentional Blink Impairs Detection and Delays Encoding of Visual Information: Evidence from Human Electrophysiology",
+    "authors": [
+      "Roberto Dell\u2019Acqua",
+      "Paul E. Dux",
+      "Brad Wyble",
+      "Mattia Doro",
+      "Paola Sessa",
+      "Federica Meconi",
+      "Pierre Jolic\u0153ur"
+    ],
+    "year": 2014,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_00752",
+    "citation_count": 50,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2032230354",
+    "title": "How to keep attention from straying: Get engaged!",
+    "authors": [
+      "Charles L. Folk",
+      "Edward F. Ester",
+      "K. Troemel"
+    ],
+    "year": 2009,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/pbr.16.1.127",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2063759282",
+    "title": "Angry facial expressions hamper subsequent target identification.",
+    "authors": [
+      "Peter J. de Jong",
+      "Ernst H. W. Koster",
+      "Rineke van Wees",
+      "Sander Martens"
+    ],
+    "year": 2010,
+    "journal": "Emotion",
+    "doi_or_url": "https://doi.org/10.1037/a0019353",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964188529",
+    "title": "Sources of interference in the attentional blink: Target-distractor similarity revisited",
+    "authors": [
+      "William S. Maki",
+      "Giulia Bussard",
+      "Kellie Lopez",
+      "Beth I. Digby"
+    ],
+    "year": 2003,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03194794",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2016747460",
+    "title": "Prefrontal control of attention to threat",
+    "authors": [
+      "Polly V. Peers",
+      "Jon S. Simons",
+      "Andrew D. Lawrence"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2013.00024",
+    "citation_count": 49,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2102542124",
+    "title": "Estimating endogenous changes in task performance from EEG",
+    "authors": [
+      "Jon Touryan",
+      "Gregory Apker",
+      "Brent J. Lance",
+      "Scott E. Kerick",
+      "Anthony J. Ries",
+      "Kaleb McDowell"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2014.00155",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964236261",
+    "title": "Working memory capacity, intelligence, and the magnitude of the attentional blink revisited",
+    "authors": [
+      "Sander Martens",
+      "Addie Johnson"
+    ],
+    "year": 2008,
+    "journal": "Experimental Brain Research",
+    "doi_or_url": "https://doi.org/10.1007/s00221-008-1551-1",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2343227041",
+    "title": "Animacy increases second target reporting in a rapid serial visual presentation task",
+    "authors": [
+      "Guadalupe Guerrero",
+      "Dustin P. Calvillo"
+    ],
+    "year": 2016,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-016-1040-7",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1981061250",
+    "title": "The Role of Awareness in Semantic and Syntactic Processing: An ERP Attentional Blink Study",
+    "authors": [
+      "Laura Batterink",
+      "Christina M. Karns",
+      "Yoshiko Yamada",
+      "Helen J. Neville"
+    ],
+    "year": 2009,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2009.21361",
+    "citation_count": 47,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2086162491",
+    "title": "The effect of target contrast on the attentional blink",
+    "authors": [
+      "Fook K. Chua"
+    ],
+    "year": 2005,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03193532",
+    "citation_count": 47,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2093891175",
+    "title": "The roles of location specificity and masking mechanisms in the attentional blink",
+    "authors": [
+      "Bruno G. Breitmeyer",
+      "Addie Ehrenstein",
+      "Kelly Pritchard",
+      "Merrill Hiscock",
+      "Jill Crisan"
+    ],
+    "year": 1999,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03206898",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1937389136",
+    "title": "The effect of target and non-target similarity on neural classification performance: a boost from confidence",
+    "authors": [
+      "Amar R. Marathe",
+      "Anthony J. Ries",
+      "Vernon J. Lawhern",
+      "Brent J. Lance",
+      "Jonathan Touryan",
+      "Kaleb McDowell",
+      "Hubert Cecotti"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2015.00270",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2415748588",
+    "title": "The Impact of Task Demands on Fixation-Related Brain Potentials during Guided Search",
+    "authors": [
+      "Anthony J. Ries",
+      "Jon Touryan",
+      "Barry Ahrens",
+      "Patrick Connolly"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0157260",
+    "citation_count": 46,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2063790106",
+    "title": "Reduced attentional blink for gambling-related stimuli in problem gamblers",
+    "authors": [
+      "Damien Brevers",
+      "Axel Cleeremans",
+      "Helen Tibboel",
+      "Antoine Bechara",
+      "Charles Kornreich",
+      "Paul Verbanck",
+      "Xavier No\u00ebl"
+    ],
+    "year": 2011,
+    "journal": "Journal of Behavior Therapy and Experimental Psychiatry",
+    "doi_or_url": "https://doi.org/10.1016/j.jbtep.2011.01.005",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2064926377",
+    "title": "Parallel processing of affective visual stimuli",
+    "authors": [
+      "Peter Peyk",
+      "Harald T. Schupp",
+      "Andreas Keil",
+      "Thomas Elbert",
+      "Markus Jungh\u00f6fer"
+    ],
+    "year": 2008,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.2008.00755.x",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2999860873",
+    "title": "No evidence for a common self-bias across cognitive domains",
+    "authors": [
+      "Annabel D. Nijhof",
+      "Kimron L. Shapiro",
+      "Caroline Catmur",
+      "Geoffrey Bird"
+    ],
+    "year": 2020,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2020.104186",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2091893106",
+    "title": "Task- and location-switching effects on visual attention",
+    "authors": [
+      "James F. Juola",
+      "Juan Botella",
+      "Antonio Palacios"
+    ],
+    "year": 2004,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03195000",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073120432",
+    "title": "Attenuation of Neural Responses in Primary Visual Cortex during the Attentional Blink",
+    "authors": [
+      "Mark Williams",
+      "Troy A. W. Visser",
+      "Ross Cunnington",
+      "Jason B. Mattingley"
+    ],
+    "year": 2008,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3057-08.2008",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140653122",
+    "title": "Stimulus familiarity improves consolidation of visual working memory representations",
+    "authors": [
+      "Lisa Durrance Blalock"
+    ],
+    "year": 2015,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-014-0823-z",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2043753327",
+    "title": "Visual, auditory, and cross-modality dual-task costs: Electrophysiological evidence for an amodal bottleneck on working memory consolidation",
+    "authors": [
+      "Karen M. Arnell"
+    ],
+    "year": 2006,
+    "journal": "Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/bf03193689",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4220677390",
+    "title": "Rapid neural categorization of facelike objects predicts the perceptual awareness of a face (face pareidolia)",
+    "authors": [
+      "Diane Rekow",
+      "Jean\u2010Yves Baudouin",
+      "Renaud Brochard",
+      "Bruno Rossion",
+      "Arnaud Leleu"
+    ],
+    "year": 2022,
+    "journal": "Cognition",
+    "doi_or_url": "https://doi.org/10.1016/j.cognition.2022.105016",
+    "citation_count": 44,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116297538",
+    "title": "Disrupting the rhythm of depression using Mobile Cognitive Therapy for recurrent depression: randomized controlled trial design and protocol",
+    "authors": [
+      "Claudi Bockting",
+      "Gemma D. Kok",
+      "Lillian van der Kamp",
+      "Filip Smit",
+      "Evelien van Valen",
+      "Robert A. Schoevers",
+      "Harm van Marwijk",
+      "Pim Cuijpers",
+      "Heleen Riper",
+      "Jack Dekker",
+      "Aaron T. Beck"
+    ],
+    "year": 2011,
+    "journal": "BMC Psychiatry",
+    "doi_or_url": "https://doi.org/10.1186/1471-244x-11-12",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163875655",
+    "title": "Distracting the Mind Improves Performance: An ERP Study",
+    "authors": [
+      "Stefan M. Wierda",
+      "Hedderik van Rijn",
+      "Niels Taatgen",
+      "Sander Martens"
+    ],
+    "year": 2010,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0015024",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2950462036",
+    "title": "Neuronal Adaptation Reveals a Suboptimal Decoding of Orientation Tuned Populations in the Mouse Visual Cortex",
+    "authors": [
+      "Miaomiao Jin",
+      "Jeffrey M. Beck",
+      "Lindsey L. Glickfeld"
+    ],
+    "year": 2019,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.3172-18.2019",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3007765461",
+    "title": "Parafoveal\u2010on\u2010foveal repetition effects in sentence reading: A co\u2010registered eye\u2010tracking and electroencephalogram study",
+    "authors": [
+      "Jonathan Mirault",
+      "Jeremy Yeaton",
+      "Fanny Broqua",
+      "St\u00e9phane Dufau",
+      "Phillip J. Holcomb",
+      "Jonathan Grainger"
+    ],
+    "year": 2020,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/psyp.13553",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2566993235",
+    "title": "Contributions of the Ventral Striatum to Conscious Perception: An Intracranial EEG Study of the Attentional Blink",
+    "authors": [
+      "Heleen A. Slagter",
+      "Ali Mazaheri",
+      "Leon C. Reteig",
+      "Ruud Smolders",
+      "Martijn Figee",
+      "Mariska Mantione",
+      "P. Richard Schuurman",
+      "Damiaan Denys"
+    ],
+    "year": 2016,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2282-16.2016",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1524499141",
+    "title": "The time course of emotional picture processing: an event-related potential study using a rapid serial visual presentation paradigm",
+    "authors": [
+      "Chuanlin Zhu",
+      "Weiqi He",
+      "Zhengyang Qi",
+      "Lili Wang",
+      "Dong-Qing Song",
+      "Lei Zhan",
+      "Shengnan Yi",
+      "Yuejia Luo",
+      "Wenbo Luo"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2015.00954",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3022075423",
+    "title": "Pupil Diameter Tracks Statistical Structure in the Environment to Increase Visual Sensitivity",
+    "authors": [
+      "Caspar M. Schwiedrzik",
+      "Sandrin S. Sudmann"
+    ],
+    "year": 2020,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0216-20.2020",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1908267915",
+    "title": "A multi-pathway hypothesis for human visual fear signaling",
+    "authors": [
+      "David Silverstein",
+      "Martin Ingvar"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2015.00101",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3046852386",
+    "title": "Boosts in brain signal variability track liberal shifts in decision bias",
+    "authors": [
+      "Niels A Kloosterman",
+      "Julian Q. Kosciessa",
+      "Ulman Lindenberger",
+      "Johannes J. Fahrenfort",
+      "Douglas D. Garrett"
+    ],
+    "year": 2020,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.54201",
+    "citation_count": 41,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

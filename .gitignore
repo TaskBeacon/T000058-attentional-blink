@@ -1,0 +1,13 @@
+# Ignore subject data files
+/data/
+/outputs/
+outputs/*
+!/outputs/.gitkeep
+__pycache__/
+*.pyc
+src/__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+/outputs/*
