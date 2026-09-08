@@ -35,7 +35,7 @@ stimuli:
   good_bye: {type: text, text: "任务完成\n第一个数字正确率：{t1_accuracy:.1%}\n条件化第二目标正确率：{conditional_t2_accuracy:.1%}\n注意瞬脱指标：{blink_magnitude:.3f}\n\n按空格键退出。", color: black, font: SimHei, height: 0.5, wrapWidth: 15, pos: [0, 0]}
 triggers:
   map: {exp_onset: 1, exp_end: 2, block_onset: 10, block_end: 11, fixation_onset: 20, rsvp_distractor_onset: 30, t1_onset: 31, t2_onset: 32, t2_absent_onset: 33, rsvp_gap_onset: 34, retention_onset: 40, t1_report_onset: 50, t1_response_timeout: 51, t1_response_2: 52, t1_response_3: 53, t1_response_4: 54, t1_response_5: 55, t1_response_6: 56, t1_response_7: 57, t1_response_8: 58, t1_response_9: 59, t2_report_onset: 60, t2_response_0: 61, t2_response_2: 62, t2_response_3: 63, t2_response_4: 64, t2_response_5: 65, t2_response_6: 66, t2_response_7: 67, t2_response_8: 68, t2_response_9: 69, t2_response_timeout: 70, practice_feedback_onset: 80, iti_onset: 90}
-  driver: {type: serial_url, url: "loop://", baudrate: 115200, timeout: 1, prefix: [1, 225, 1, 0]}
+  driver: {type: mock, print_codes: true}
   policy: {strict: false}
   timing: {post_delay_s: 0.001}
 sim:

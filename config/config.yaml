@@ -224,11 +224,8 @@ triggers:
     practice_feedback_onset: 80
     iti_onset: 90
   driver:
-    type: serial_url
-    url: loop://
-    baudrate: 115200
-    timeout: 1
-    prefix: [1, 225, 1, 0]
+    type: mock
+    print_codes: true
   policy:
     strict: false
   timing:
